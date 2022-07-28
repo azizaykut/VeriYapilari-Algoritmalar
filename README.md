@@ -41,7 +41,7 @@ Time Complexity:
 # Merge Sort 
 
 <p align = "center">
-  <img src = "img/merge.png">
+  <img src = "https://github.com/azizaykut/VeriYapilari-Algoritmalar/blob/main/VeriYap%C4%B1lar%C4%B1-Algoritmalar/img/merge.png">
 </p>
 
 <font color="gree"><p align = "center"> Big-O gösterimi = O(nlog(n)) </p> </font>
